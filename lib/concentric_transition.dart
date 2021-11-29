@@ -1,4 +1,4 @@
-library concentric_transition;
+library concentric_circle_transition;
 
 export 'clipper.dart';
 export 'page_route.dart';

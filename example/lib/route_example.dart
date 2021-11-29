@@ -1,4 +1,4 @@
-import 'package:concentric_transition/concentric_transition.dart';
+import 'package:concentric_circle_transition/concentric_transition.dart';
 import 'package:flutter/material.dart';
 
 class RouteExample extends StatefulWidget {

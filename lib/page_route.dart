@@ -1,4 +1,4 @@
-import 'package:concentric_transition/clipper.dart';
+import 'package:concentric_circle_transition/clipper.dart';
 import 'package:flutter/material.dart';
 
 class ConcentricPageRoute<T> extends PageRoute<T> {

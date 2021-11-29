@@ -152,10 +152,7 @@ class _ConcentricPageViewState extends State<ConcentricPageView> {
             );
           },
         ),
-        Positioned(
-          top: MediaQuery.of(context).size.height * widget.verticalPosition,
-          child: _buildButton(),
-        ),
+     
       ],
     );
   }
